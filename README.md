@@ -1,6 +1,6 @@
 # Anammalik08
 <h1 align="center">Hi there 👋, I'm Anam</h1>
-<h3 align="center">A girl trying to explore new things an Open Source enthusiast!!.</h3>
+<h3 align="center">A girl trying to explore new things and an Open Source enthusiast!!.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anammalik08&label=Profile%20views&color=0e75b6&style=flat" alt="anammalik08" /> </p>
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **anamm0385@gmail.com**
 
-- ⚡ Fun fact **I am a Professional Bathroom Singer! XD**
+- ⚡ Fun fact **love to play Ukulele**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
