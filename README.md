@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **anamm0385@gmail.com**
 
-- ⚡ Fun fact **love to play Ukulele**
+- ⚡ Fun fact **Love to draw Sketches and Paintings**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
