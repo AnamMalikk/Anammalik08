@@ -6,11 +6,11 @@ Currently pursuing Master of Computer Applications at IGDTUW (CGPA: 8.975) with 
 
 ## 🚀 About Me
 
-- 🎓 **MCA Student** at Indira Gandhi Delhi Technical University for Women
+- 🎓 **MCA Student** at Indira Gandhi Delhi Technical University for Women, Delhi
 - 💻 **Former Tech Lead** at GDSC & **Community Manager** at Decodecafe
 - 🌐 **Full-Stack Developer** with AI integration experience
 - 🧠 Building **ML-powered web applications**
-- 🎯 **Completed 3 specialized programs** in AI/ML, Full-Stack & Java Development
+- 🎯 **Completed Training and Certification programs** in AI/ML, Full-Stack & Java Development
 
 ## 🛠️ Tech Stack
 
