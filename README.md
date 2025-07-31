@@ -74,7 +74,7 @@ Interactive web-based game with clean UI and game logic
 - Intensive training in AI integration with web development
 
 **Summer Internship - Java Development** | SRCASW, University of Delhi
- *August 2021*
+ ,*August 2021*
 - Built Electricity Billing System as capstone project
 - Java Swing, database integration, desktop application development
 
