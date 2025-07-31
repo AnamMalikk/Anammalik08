@@ -42,6 +42,14 @@ Currently pursuing Master of Computer Applications at IGDTUW (CGPA: 8.975) with 
 ML model with **85.84% accuracy** + Streamlit web app for real-time predictions
 - **Tech:** Python, Scikit-learn, Streamlit
 
+  ### [Personality Detection System](https://github.com/AnamMalikk/Personality-Detection-Project) 
+MBTI-based text analysis system with multiple ML algorithms
+- **Tech:** Python, NLP, Machine Learning
+
+### [Electricity Billing System](https://github.com/AnamMalikk/Electricity-Billing-System)
+Desktop application with role-based access and email integration
+- **Tech:** Java Swing, MS Access
+
 ### [Employee Attrition Prediction](https://github.com/AnamMalikk/Employee-Attrition-Prediction)
 Predicting employee turnover using machine learning algorithms
 - **Tech:** Python, Machine Learning, Data Analysis
@@ -53,14 +61,7 @@ Frontend music streaming interface with responsive design
 ### [TicTacToe Game](https://github.com/AnamMalikk/TicTacToe.github.io)
 Interactive web-based game with clean UI and game logic
 - **Tech:** HTML, CSS, JavaScript
-
-### [Personality Detection System](https://github.com/AnamMalikk/Personality-Detection-Project) 
-MBTI-based text analysis system with multiple ML algorithms
-- **Tech:** Python, NLP, Machine Learning
-
-### [Electricity Billing System](https://github.com/AnamMalikk/Electricity-Billing-System)
-Desktop application with role-based access and email integration
-- **Tech:** Java Swing, MS Access
+- 
 
 ## 🎓 Training & Internships
 
