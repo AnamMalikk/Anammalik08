@@ -10,15 +10,31 @@ Currently pursuing Master of Computer Applications at IGDTUW (CGPA: 8.975) with 
 - 💻 **Former Tech Lead** at GDSC & **Community Manager** at Decodecafe
 - 🌐 **Full-Stack Developer** with AI integration experience
 - 🧠 Building **ML-powered web applications**
-- 🎯 **Completed Training and Certification programs** in AI/ML, Full-Stack & Java Development
+- 🎯 **Completed Specialized Training programs** in AI/ML & Full-Stack Development
 
 ## 🛠️ Tech Stack
-
+**Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Web Technologies:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+**Databases & Tools:**  
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+**Libraries & Frameworks:**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ## 🔥 Featured Projects
 
@@ -38,11 +54,11 @@ Frontend music streaming interface with responsive design
 Interactive web-based game with clean UI and game logic
 - **Tech:** HTML, CSS, JavaScript
 
-### [Personality Detection System](link-to-repo)  
+### [Personality Detection System](https://github.com/AnamMalikk/Personality-Detection-Project) 
 MBTI-based text analysis system with multiple ML algorithms
 - **Tech:** Python, NLP, Machine Learning
 
-### [Electricity Billing System](link-to-repo)
+### [Electricity Billing System](https://github.com/AnamMalikk/Electricity-Billing-System)
 Desktop application with role-based access and email integration
 - **Tech:** Java Swing, MS Access
 
@@ -57,8 +73,8 @@ Desktop application with role-based access and email integration
 *June 2025 - July 2025*
 - Intensive training in AI integration with web development
 
-**Summer Training - Java Development** | IGDTUW  
-*Summer 2024*
+**Summer Internship - Java Development** | SRCASW, University of Delhi
+*August 2021*
 - Built Electricity Billing System as capstone project
 - Java Swing, database integration, desktop application development
 
