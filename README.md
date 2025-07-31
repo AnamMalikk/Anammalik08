@@ -42,7 +42,7 @@ Currently pursuing Master of Computer Applications at IGDTUW (CGPA: 8.975) with 
 ML model with **85.84% accuracy** + Streamlit web app for real-time predictions
 - **Tech:** Python, Scikit-learn, Streamlit
 
-  ### [Personality Detection System](https://github.com/AnamMalikk/Personality-Detection-Project) 
+### [Personality Detection System](https://github.com/AnamMalikk/Personality-Detection-Project) 
 MBTI-based text analysis system with multiple ML algorithms
 - **Tech:** Python, NLP, Machine Learning
 
